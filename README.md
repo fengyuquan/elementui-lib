@@ -1,4 +1,5 @@
-<!-- GitHub Tab标签切换：中英文README -->
+
+<div>
 <style>
   /* Tab按钮容器样式 */
   .tab-nav {
@@ -43,6 +44,7 @@
     display: block;
   }
 </style>
+</div>
 
 <!-- Tab按钮：中文/英文 -->
 <ul class="tab-nav">
